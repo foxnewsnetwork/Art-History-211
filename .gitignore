@@ -1,0 +1,6 @@
+*.*sdf
+*.*suo
+IndigioDesktopApp/bin/*
+IndigioDesktopApp/bin/
+IndigioDesktopApp/obj/
+IndigioDesktopApp/obj/*
